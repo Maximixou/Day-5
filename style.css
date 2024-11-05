@@ -1,0 +1,65 @@
+*{
+    background-color: #e0e2e8;
+    font-family: Verdana, Geneva, Tahoma, sans-serif; 
+    text-align: center;
+}
+
+.parent{
+    text-align: center;
+
+}
+img{
+    display: inline-block;
+    width: 35%;
+    height: 35%;
+    margin-top: 30PX;
+}
+.espacetitre{
+    margin-top: 30px;
+}
+h1{
+    display: inline;
+    letter-spacing: 5PX;
+    text-transform: uppercase;
+    padding: 10PX 4PX;
+}
+
+.lettrec,.lettree,.lettrer,.lettreee,.lettres{
+    padding: 10PX 4PX;
+}
+
+.lettree {
+    color: #ff6633;
+    border: 2px solid #ff6633;
+    border-right: hidden;
+    border-left: hidden;
+
+
+}
+.lettreee{
+    color: #ff6633;
+    border: 2px solid #ff6633;
+    border-right: hidden;
+    border-left: hidden;
+}
+.lettrec{
+    color:#36a23e ;
+    border: 2px solid #36a23e;
+    border-right: hidden;
+
+}
+.lettres{
+    color: #36a23e;
+    border: 2px solid #36a23e;
+    border-left: hidden;
+}
+.lettrer{
+    color: #cc0066;
+    border: 2px solid #cc0066;
+    border-right: hidden;
+    border-left: hidden;
+}
+.solaire{
+    text-decoration: underline;
+    color: #36a23e;
+}
